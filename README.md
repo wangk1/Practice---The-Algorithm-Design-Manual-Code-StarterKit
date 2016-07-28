@@ -17,6 +17,7 @@ Currently Available:
   a. Auto Generation, manual generation
 
 Planned:
+
 1. <b>Graphs</b>
   a. Persistence of Graphs
   b. Common Algorithms
