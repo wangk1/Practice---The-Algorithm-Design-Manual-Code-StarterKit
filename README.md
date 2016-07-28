@@ -10,16 +10,16 @@ WARNING: THIS IS PRE ALPHA RELEASE CODE; as such, not all functionality are avai
 	Moreover, it is not well tested. I WILL NOT be responsible for any issue occuring from
 	the proper use of this code
 	
-<i>	
+<i><b>	
 Currently Available:
-</i>
+</b></i>
 
 1. <b>Graphs</b>
   a. Auto Generation, manual generation
 
-<b>
+<i>
 Planned:
-</b>
+</i>
 
 1. <b>Graphs</b>
   a. Persistence of Graphs
