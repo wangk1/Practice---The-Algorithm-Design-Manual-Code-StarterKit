@@ -10,16 +10,16 @@ WARNING: THIS IS PRE ALPHA RELEASE CODE; as such, not all functionality are avai
 	Moreover, it is not well tested. I WILL NOT be responsible for any issue occuring from
 	the proper use of this code
 	
-<span style="color: green">	
+<i>	
 Currently Available:
-</span>
+</i>
 
 1. <b>Graphs</b>
   a. Auto Generation, manual generation
 
-<span style="color:yellow">
+<b>
 Planned:
-</span>
+</b>
 
 1. <b>Graphs</b>
   a. Persistence of Graphs
