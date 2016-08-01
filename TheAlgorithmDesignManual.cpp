@@ -12,7 +12,9 @@ int main()
 	autogen_graph(&g, true);
 	//read_graph(&g, true);
 
+	save_to_file(&g, "test_graph.txt");
 	print_graph(&g);
+	
 
     return 0;
 }

@@ -146,6 +146,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="graphs.h" />
+    <ClInclude Include="graph_algorithms.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="graphs.cpp" />
