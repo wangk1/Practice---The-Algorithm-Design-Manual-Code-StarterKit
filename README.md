@@ -17,6 +17,8 @@ Currently Available:
 1. <b>Graphs</b>
 
   a. Auto Generation, manual generation
+  
+  b. BFS
 
 <i>
 Planned:
@@ -26,4 +28,12 @@ Planned:
 
   a. Persistence of Graphs
   
-  b. Common Algorithms
+  b. Connected Components
+  
+  c. Bipartite Coloring
+
+<i>
+Bugs:
+</i>
+
+1. Setting connected flag to false does not result in nodes with zero edges. 
